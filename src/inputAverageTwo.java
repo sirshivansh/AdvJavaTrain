@@ -1,7 +1,7 @@
 //17-02-26
 import java.util.Scanner;
 
-class inputAverageTwo
+public class inputAverageTwo
 {
 	public static void main(String args[])
 	{

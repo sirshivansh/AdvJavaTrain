@@ -1,6 +1,6 @@
 //17-02-26
 import java.util.Scanner;
-class areaCircle
+public class areaCircle
 {
 	public static void main(String[] args)
 	{
