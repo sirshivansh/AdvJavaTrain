@@ -1,4 +1,5 @@
 // WAP to accept a number from user and display table of it.
+//02-03-26
 
 import java.util.Scanner;
 class TableGenerator{

@@ -1,5 +1,5 @@
 // WAP to get sum of first n natural numbers.
-
+// 02-03-26
 public class SumOfNaturals{
 	public static void main(String[] args){
 		int sum = 0;
