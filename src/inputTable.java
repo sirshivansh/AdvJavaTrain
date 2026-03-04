@@ -11,7 +11,7 @@ class inputTable{
 		System.out.println("Table is as follows : ");
 		//we are making table, so 10 values chhiye
 		while(i <=10){
-			System.out.println(a*i);
+			System.out.println(a + " * " + i + "=" + a*i);
 			i++;
 		}
 	}
