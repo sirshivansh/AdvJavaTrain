@@ -10,6 +10,7 @@ class arrDemo1
 
 		for(i=0; i<6; i++){
 			System.out.println(marks[i]);
+			// System.out.println(marks[2]);
 		}
 	}
 }
