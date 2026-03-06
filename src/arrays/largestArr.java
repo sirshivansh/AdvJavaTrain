@@ -1,0 +1,32 @@
+// largest number in array
+
+import java.util.Scanner;
+
+class largestArr
+{
+	public static void main(String args[])
+	{
+		int i;
+		int a[] = new int[5];
+
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter 5 Values: ");
+
+		for(i=0; i<5; i++)
+		{
+			a[i] = sc.nextInt();
+		}
+
+		int max = a[0];
+
+		for(i=0; i<5; i++)
+		{
+			if(a[i] > max)
+			{
+				max = a[i];
+			}
+		}
+		System.out.println("\nThe maximum element is: "+max);
+
+	}
+}
