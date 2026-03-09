@@ -6,7 +6,8 @@ class arrInput
 {
 	public static void main(String args[])
 	{
-		int a[] = new int[5];
+		int a[
+		] = new int[5];
 		int i;
 
 		Scanner sc = new Scanner(System.in);
