@@ -37,7 +37,7 @@ class yt
 	public static void main(String args[])
 	{
 		YouTubePremium ytp = new YouTubePremium();
-		
+
 		ytp.watchVideo();
 		ytp.changePace();
 		ytp.searchVideo();
